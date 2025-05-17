@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Data Analyst,Cyber Security..**
 
-- 👯 I’m looking to collaborate on **Online Gift harbor portal**
-
 - 💬 Ask me about **react,flask,flutter...**
 
 - 📫 How to reach me **deenadhayalan05112003@gmail.com**
